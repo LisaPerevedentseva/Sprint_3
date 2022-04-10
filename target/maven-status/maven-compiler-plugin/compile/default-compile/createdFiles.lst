@@ -1,0 +1,6 @@
+ru\yandex\scooter\steps\OrderStep.class
+ru\yandex\scooter\client\CourierApiClient.class
+ru\yandex\scooter\steps\CourierStep.class
+ru\yandex\scooter\model\Courier.class
+ru\yandex\scooter\client\OrderApiClient.class
+ru\yandex\scooter\model\Order.class
